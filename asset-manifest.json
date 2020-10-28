@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Block14-Project-Agile/static/css/main.30fb04a3.chunk.css",
+    "main.js": "/Block14-Project-Agile/static/js/main.3f9a021b.chunk.js",
+    "main.js.map": "/Block14-Project-Agile/static/js/main.3f9a021b.chunk.js.map",
+    "runtime-main.js": "/Block14-Project-Agile/static/js/runtime-main.508df4fa.js",
+    "runtime-main.js.map": "/Block14-Project-Agile/static/js/runtime-main.508df4fa.js.map",
+    "static/js/2.88982449.chunk.js": "/Block14-Project-Agile/static/js/2.88982449.chunk.js",
+    "static/js/2.88982449.chunk.js.map": "/Block14-Project-Agile/static/js/2.88982449.chunk.js.map",
+    "index.html": "/Block14-Project-Agile/index.html",
+    "precache-manifest.66630a7683e712d6f970dd06368189ef.js": "/Block14-Project-Agile/precache-manifest.66630a7683e712d6f970dd06368189ef.js",
+    "service-worker.js": "/Block14-Project-Agile/service-worker.js",
+    "static/css/main.30fb04a3.chunk.css.map": "/Block14-Project-Agile/static/css/main.30fb04a3.chunk.css.map",
+    "static/js/2.88982449.chunk.js.LICENSE.txt": "/Block14-Project-Agile/static/js/2.88982449.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.508df4fa.js",
+    "static/js/2.88982449.chunk.js",
+    "static/css/main.30fb04a3.chunk.css",
+    "static/js/main.3f9a021b.chunk.js"
+  ]
+}
