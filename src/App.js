@@ -13,11 +13,11 @@ function App() {
     <BrowserRouter>
       <Switch>
         <Route
-          path="/product-detail/:idprod"
+          path="/Block14-Project-Agile/product-detail/:idprod"
           render={ (props) => <ProductDetail { ...props } /> }
         />
-        <Route path="/shopping-cart" component={ ShoppingCart } />
-        <Route path="/" component={ HomePage } />
+        <Route path="/Block14-Project-Agile/shopping-cart" component={ ShoppingCart } />
+        <Route path="/Block14-Project-Agile/" component={ HomePage } />
       </Switch>
     </BrowserRouter>
   );
