@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4be2d803293392709d00264090caa90f",
+    "revision": "248447c80659260a2ed42f5be51398cd",
     "url": "/Block14-Project-Agile/index.html"
   },
   {
-    "revision": "f9a1b216215f488672ed",
+    "revision": "dbba9bfac62dc4ea7c96",
     "url": "/Block14-Project-Agile/static/css/main.30fb04a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Block14-Project-Agile/static/js/2.88982449.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9a1b216215f488672ed",
-    "url": "/Block14-Project-Agile/static/js/main.3f9a021b.chunk.js"
+    "revision": "dbba9bfac62dc4ea7c96",
+    "url": "/Block14-Project-Agile/static/js/main.dd84a89c.chunk.js"
   },
   {
     "revision": "7c8387eccd4778fd27f1",
